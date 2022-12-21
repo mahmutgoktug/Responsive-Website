@@ -5,6 +5,7 @@
 }
 .navbar-brand{
     font-size: 2rem;
+    font-family: 'Dancing Script', cursive;
     color: red;
 }
 .nav-link{
@@ -49,3 +50,40 @@
     outline: none;
 }
 /*=================Main Section=================*/
+
+.main{
+    background: url(images/main1copy.jpg)no-repeat;
+    background-size: cover;
+    min-height: 95vh;
+    width: 100%;
+}
+.main h1{
+    font-size: 5rem;
+    font-weight: 800;
+    color: rgb(7, 7, 78);
+}
+.main input{
+    height: 71px;
+    width: 70%;
+    border: none;
+    outline: none;
+    padding: 15px;
+}
+.btn2{
+    height: 70px;
+    width: 25%;
+    background-color: rgb(243, 73, 73);
+    color: white;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    transition: all 0.4s;
+    margin-left: -4px;
+}
+.btn2:hover{
+    background: rgb(214, 11, 11);
+    transition: all 0.4s;
+}
+
+
+
