@@ -84,6 +84,22 @@
     background: rgb(214, 11, 11);
     transition: all 0.4s;
 }
+/*=================Ceta=================*/
+.red{
+    color: red;
+}
+.ceta h1{
+    font-size: 3.5rem;
+    color: rgb(7, 7, 78);
+}
+.ceta .card:hover{
+    color: red;
+    cursor: pointer;
+    transition: all 0.3s;
+    box-shadow: -3px 1px 21px -10px rgba(0,0,0,0.75);
+-webkit-box-shadow: -3px 1px 21px -10px rgba(0,0,0,0.75);
+-moz-box-shadow: -3px 1px 21px -10px rgba(0,0,0,0.75);
+}
 
 
 
