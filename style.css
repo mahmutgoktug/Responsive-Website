@@ -152,7 +152,7 @@
 .apply{
     background: url(images/cool-background.png)no-repeat;
     background-size: cover;
-    height: 110vh;
+    /*height: 110vh;*/
     width: 100%;
 }
 .apply .card{
