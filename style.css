@@ -169,3 +169,68 @@
 .cir1 img{
     border-radius: 50%;
 }
+.avatar{
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+}
+.perac{
+    font-size: 1.6rem;
+    font-weight: 300;
+}
+.btn5{
+    height: 60px;
+    width: 30%;
+    outline: none;
+    border: none;
+    background: rgb(243, 73, 73);
+    cursor: pointer;
+    color: white;
+    border-radius: 5px;
+    transition: all 0.4s;
+}
+.btn5:hover{
+    background: rgb(214, 11, 11);
+    border: none;
+    outline: none;
+    transition: all 0.4s;
+}
+.footer{
+    background: #121626;
+    color: white;
+}
+.footer p{
+    margin: 0;
+    color: #69696b;
+}
+.link{
+    color: #6b6b72;
+    transition: all 0.4s;
+}
+.link:hover{
+    color: #ff2962;
+    padding-left: 10px;
+    transition: all 0.4s;
+    cursor: pointer;
+}
+.footer input{
+    height: 45px;
+    width: 70%;
+    padding: 10px 10px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+.footer button{
+    height: 45px;
+    width: 20%;
+    border: none;
+    outline: none;
+    margin-left: -12px;
+    border-top: 1px solid #ff2962;
+    background: #ff2962;
+    color: white;
+    margin-top: 40px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
