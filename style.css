@@ -128,3 +128,24 @@
 .resume h1{
     font-size: 3.8rem;
 }
+/* =========================================== */
+.job h1{
+    font-size: 3.5rem;
+    color: rgb(7, 7, 78);
+}
+.btn4{
+    height: 60px;
+    width: 30%;
+    outline: none;
+    border: none;
+    background: rgb(243, 73, 73);
+    color: white;
+    transition: all 0.4s;
+}
+.btn4:hover{
+    background: rgb(214, 11, 11);
+    color: white;
+    transition: all 0.4s;
+    border: none;
+    outline: none;
+}
